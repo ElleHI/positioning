@@ -1,0 +1,21 @@
+.div2{
+  background-color:yellow;
+  width300px;
+  height:250px;
+  position: relative;
+  button:100px;
+}
+pstition:fixed
+
+.div-3-outer{
+  border: 2px orange solid;
+  height: 400px;
+  width:250px;
+  background-color: darkcyan;
+  pstition: relative;
+ }
+
+p{
+  clear:both;
+  overflow:scrol;
+}
